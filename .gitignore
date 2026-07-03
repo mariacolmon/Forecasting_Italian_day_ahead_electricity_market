@@ -1,0 +1,27 @@
+# Data and generated outputs
+data/
+experiments/
+figures/
+model_logs/
+checkpoints/
+
+# Large or intermediate files
+*.rds
+*.RData
+*.parquet
+*.xlsx
+*.csv
+*.zip
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# R / Python / system files
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
