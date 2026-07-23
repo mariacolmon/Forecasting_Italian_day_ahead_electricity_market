@@ -6,10 +6,10 @@ A comparative study of statistical, machine learning and deep learning methods f
 
 The project forecasts hourly electricity **prices**, **accepted purchase volumes** and **accepted sale volumes** across the seven physical bidding zones of the Italian *Mercato del Giorno Prima*.
 
-[View the interactive presentation](https://TU-USUARIO.github.io/NOMBRE-REPOSITORIO/) ·
+[View the interactive presentation](https://mariacolmon.github.io/Forecasting_Italian_day_ahead_electricity_market/) ·
 [Read the Master's Thesis](docs/thesis.pdf)
 
-[![Final results](final-results.png)](https://TU-USUARIO.github.io/NOMBRE-REPOSITORIO/)
+[![Final results](final-results.png)](https://mariacolmon.github.io/Forecasting_Italian_day_ahead_electricity_market/)
 
 ## Project overview
 
